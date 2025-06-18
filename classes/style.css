@@ -1,0 +1,21 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+html,body{
+    height:100%;
+    width: 100%;
+}
+
+.colorfont{
+    background-color: aqua;
+    text-align: center;
+    font-weight: bolder;
+}
+
+h4{
+    background-color:aquamarine;
+    margin:100px;
+    padding:10px;
+}
